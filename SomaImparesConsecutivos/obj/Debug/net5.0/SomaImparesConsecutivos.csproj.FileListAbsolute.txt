@@ -1,0 +1,16 @@
+C:\Users\015238631\Documents\Projetos.net\SomaImparesConsecutivos\SomaImparesConsecutivos\bin\Debug\net5.0\SomaImparesConsecutivos.exe
+C:\Users\015238631\Documents\Projetos.net\SomaImparesConsecutivos\SomaImparesConsecutivos\bin\Debug\net5.0\SomaImparesConsecutivos.deps.json
+C:\Users\015238631\Documents\Projetos.net\SomaImparesConsecutivos\SomaImparesConsecutivos\bin\Debug\net5.0\SomaImparesConsecutivos.runtimeconfig.json
+C:\Users\015238631\Documents\Projetos.net\SomaImparesConsecutivos\SomaImparesConsecutivos\bin\Debug\net5.0\SomaImparesConsecutivos.runtimeconfig.dev.json
+C:\Users\015238631\Documents\Projetos.net\SomaImparesConsecutivos\SomaImparesConsecutivos\bin\Debug\net5.0\SomaImparesConsecutivos.dll
+C:\Users\015238631\Documents\Projetos.net\SomaImparesConsecutivos\SomaImparesConsecutivos\bin\Debug\net5.0\ref\SomaImparesConsecutivos.dll
+C:\Users\015238631\Documents\Projetos.net\SomaImparesConsecutivos\SomaImparesConsecutivos\bin\Debug\net5.0\SomaImparesConsecutivos.pdb
+C:\Users\015238631\Documents\Projetos.net\SomaImparesConsecutivos\SomaImparesConsecutivos\obj\Debug\net5.0\SomaImparesConsecutivos.csproj.AssemblyReference.cache
+C:\Users\015238631\Documents\Projetos.net\SomaImparesConsecutivos\SomaImparesConsecutivos\obj\Debug\net5.0\SomaImparesConsecutivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\015238631\Documents\Projetos.net\SomaImparesConsecutivos\SomaImparesConsecutivos\obj\Debug\net5.0\SomaImparesConsecutivos.AssemblyInfoInputs.cache
+C:\Users\015238631\Documents\Projetos.net\SomaImparesConsecutivos\SomaImparesConsecutivos\obj\Debug\net5.0\SomaImparesConsecutivos.AssemblyInfo.cs
+C:\Users\015238631\Documents\Projetos.net\SomaImparesConsecutivos\SomaImparesConsecutivos\obj\Debug\net5.0\SomaImparesConsecutivos.csproj.CoreCompileInputs.cache
+C:\Users\015238631\Documents\Projetos.net\SomaImparesConsecutivos\SomaImparesConsecutivos\obj\Debug\net5.0\SomaImparesConsecutivos.dll
+C:\Users\015238631\Documents\Projetos.net\SomaImparesConsecutivos\SomaImparesConsecutivos\obj\Debug\net5.0\ref\SomaImparesConsecutivos.dll
+C:\Users\015238631\Documents\Projetos.net\SomaImparesConsecutivos\SomaImparesConsecutivos\obj\Debug\net5.0\SomaImparesConsecutivos.pdb
+C:\Users\015238631\Documents\Projetos.net\SomaImparesConsecutivos\SomaImparesConsecutivos\obj\Debug\net5.0\SomaImparesConsecutivos.genruntimeconfig.cache
