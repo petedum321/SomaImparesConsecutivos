@@ -24,7 +24,7 @@ namespace SomaImparesConsecutivos
            
 
                 int inicioList = x + 1;
-                int terminoList = (y - (x + 1) + (x));
+                int terminoList = (y - 1);
 
                 for (int i = inicioList; i <= terminoList; i++)
                 {
